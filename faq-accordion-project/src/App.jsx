@@ -24,7 +24,7 @@ function App() {
   ]
 
   return (
-    <main className="bg-[url(./assets/images/background-pattern-mobile.svg)] md:bg-[url(./assets/images/background-pattern-desktop.svg)] bg-purple-100 bg-contain bg-top bg-no-repeat h-screen">
+    <main className="bg-[url(../assets/images/background-pattern-mobile.svg)] md:bg-[url(../assets/images/background-pattern-desktop.svg)] bg-purple-100 bg-contain bg-top bg-no-repeat h-screen">
       <div className="card w-5/6 md:max-w-lg bg-white rounded-md absolute bottom-1/2 left-1/2 -translate-x-1/2 translate-y-1/2 p-6 shadow-lg">
         <div className="head flex gap-x-2 items-center mb-6">
           <div className="star-icon">
